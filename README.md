@@ -16,7 +16,7 @@ Pensada para estudiantes: preguntas con distractores realistas, reparto proporci
 
 ### Claude.ai
 
-1. Descarga este repositorio como ZIP (o solo la carpeta `tests-de-estudio`).
+1. Descarga este repositorio como ZIP o clonalo.
 2. En Claude, ve a **Configuración → Capacidades → Skills** y sube la carpeta comprimida.
 3. Activa la skill.
 
