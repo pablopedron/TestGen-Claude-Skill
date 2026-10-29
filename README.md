@@ -1,5 +1,4 @@
 # TestGen-Claude-Skill
-# tests-de-estudio
 
 Una skill para Claude que convierte apuntes, diapositivas o temarios en **tests tipo examen** con soluciones explicadas.
 
